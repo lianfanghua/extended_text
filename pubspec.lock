@@ -45,10 +45,10 @@ packages:
     dependency: "direct main"
     description:
       name: extended_text_library
-      sha256: "6d06b0ac53a09989e9864549f133c19c676d1456c5ee9470e2483f3cb1900f6e"
+      sha256: c06fbd8e3b6eedadf50cd6c109bbbd80921a6c43e4422d3b4ec9d4cb36ce4555
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "10.0.0"
+    version: "11.0.2"
   fake_async:
     dependency: transitive
     description:
@@ -170,4 +170,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.0-0 <4.0.0"
-  flutter: ">=3.0.0"
+  flutter: ">=3.10.0"
