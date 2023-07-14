@@ -8,7 +8,7 @@ environment:
   flutter: ">=2.10.0"
 
 dependencies:
-  extended_text_library: ^9.0.0
+  extended_text_library: ^10.0.0
   flutter:
     sdk: flutter
 
